@@ -1,23 +1,16 @@
-import logo from './logo.svg';
 import './App.css';
+import PointCalculator from './components/PointCalculator';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="App" style={{display: 'flex', flexDirection: 'column', alignItems: 'center'}}>
+      <h1 className="header" style={{margin: '0 0 30px 0'}} >
+        Point-by Calculator
+      </h1>
+      <h6 className="header" style={{fontWeight: 'normal'}}>
+        <b>Abileties:</b><br/>Strength, Dexterity, Constitution, Intelligence, Wisdom, Charisma.
+      </h6>
+      <PointCalculator />
     </div>
   );
 }
