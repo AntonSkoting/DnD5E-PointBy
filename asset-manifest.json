@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/DnD5E-PointBy/static/css/main.83020661.chunk.css",
+    "main.js": "/DnD5E-PointBy/static/js/main.f86f9a4b.chunk.js",
+    "main.js.map": "/DnD5E-PointBy/static/js/main.f86f9a4b.chunk.js.map",
+    "runtime-main.js": "/DnD5E-PointBy/static/js/runtime-main.4d17109b.js",
+    "runtime-main.js.map": "/DnD5E-PointBy/static/js/runtime-main.4d17109b.js.map",
+    "static/js/2.c70002d9.chunk.js": "/DnD5E-PointBy/static/js/2.c70002d9.chunk.js",
+    "static/js/2.c70002d9.chunk.js.map": "/DnD5E-PointBy/static/js/2.c70002d9.chunk.js.map",
+    "static/js/3.8c94a8bc.chunk.js": "/DnD5E-PointBy/static/js/3.8c94a8bc.chunk.js",
+    "static/js/3.8c94a8bc.chunk.js.map": "/DnD5E-PointBy/static/js/3.8c94a8bc.chunk.js.map",
+    "index.html": "/DnD5E-PointBy/index.html",
+    "static/css/main.83020661.chunk.css.map": "/DnD5E-PointBy/static/css/main.83020661.chunk.css.map",
+    "static/js/2.c70002d9.chunk.js.LICENSE.txt": "/DnD5E-PointBy/static/js/2.c70002d9.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/DnD5E-PointBy/static/media/DnD 5E SCAG Cover.f6267498.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4d17109b.js",
+    "static/js/2.c70002d9.chunk.js",
+    "static/css/main.83020661.chunk.css",
+    "static/js/main.f86f9a4b.chunk.js"
+  ]
+}
