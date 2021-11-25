@@ -10,9 +10,9 @@ body {
   align-items: center;
 
   background-color: bisque;
-  background-image: url(./img/DnD\ 5E\ SCAG\ Cover.jpg);
+  background-image: url(./img/pexels-sami-anas-5137668.jpg);
   background-size: cover;
-  background-position: right;
+  background-position: center;
 }
 
 .App {
@@ -26,6 +26,7 @@ body {
 }
 
 .credit {
+  display: none;
   position: fixed;
   right: 20px;
   bottom: 0;
