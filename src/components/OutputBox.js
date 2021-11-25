@@ -8,7 +8,7 @@ function OutputBox({value, color}) {
         width: '2.38rem', 
         height: '1.2rem',
         border: '1px solid gray', 
-        borderRadius: '2px',
+        //borderRadius: '2px',
         display: 'inline-block', 
         lineHeight: '1.1rem',
         textAlign: 'center',

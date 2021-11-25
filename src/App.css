@@ -30,4 +30,5 @@ body {
   right: 20px;
   bottom: 0;
   color: var(--text-color);
+  opacity: 0.3;
 }
