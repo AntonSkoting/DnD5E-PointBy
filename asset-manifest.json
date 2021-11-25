@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/DnD5E-PointBy/static/css/main.4ab51fc4.chunk.css",
-    "main.js": "/DnD5E-PointBy/static/js/main.75f41cf6.chunk.js",
-    "main.js.map": "/DnD5E-PointBy/static/js/main.75f41cf6.chunk.js.map",
+    "main.js": "/DnD5E-PointBy/static/js/main.e027de79.chunk.js",
+    "main.js.map": "/DnD5E-PointBy/static/js/main.e027de79.chunk.js.map",
     "runtime-main.js": "/DnD5E-PointBy/static/js/runtime-main.4d17109b.js",
     "runtime-main.js.map": "/DnD5E-PointBy/static/js/runtime-main.4d17109b.js.map",
     "static/js/2.c70002d9.chunk.js": "/DnD5E-PointBy/static/js/2.c70002d9.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.4d17109b.js",
     "static/js/2.c70002d9.chunk.js",
     "static/css/main.4ab51fc4.chunk.css",
-    "static/js/main.75f41cf6.chunk.js"
+    "static/js/main.e027de79.chunk.js"
   ]
 }
