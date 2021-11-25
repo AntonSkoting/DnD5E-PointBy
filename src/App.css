@@ -1,5 +1,10 @@
+
+:root {
+  --text-color: #FFF;
+}
+
 body {
-  height: 100vh;
+  min-height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -15,11 +20,14 @@ body {
   padding: 50px;
 }
 
-.App label {
-  color: white;
+.App label, .App .header {
+  color: var(--text-color);
   font-weight: bold;
 }
 
-.App .header {
-  color: white;
+.credit {
+  position: fixed;
+  right: 20px;
+  bottom: 0;
+  color: var(--text-color);
 }
